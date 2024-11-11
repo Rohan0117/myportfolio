@@ -39,7 +39,7 @@ img{
 
 .img-container{
     width: 100%;
-    background-color: #60c0e2;
+/*     background-color: #60c0e2; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,4 +62,12 @@ article{
     align-items: center;
     justify-content:space-between;
     font-size: large;
+}
+
+footer{
+    background-color: lightcyan;
+}
+
+footer h3{
+text-align: center;
 }
