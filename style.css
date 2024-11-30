@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: #5BC0BE; */
+    
+}
+.navbar{
+    height: 50px;
+    background-color: #6FFFE9;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 80px;
+}
+
+.section{
+    width: 500px;
+    /* background-color: red; */
+    /* color: grey; */
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.img-container{
+    width: 100%;
+    /* background-color: #60c0e2; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    display: inline;
+}
+
+article{
+    height: 150px;
+    /* background-color: white; */
+}
+article h3{
+    text-align: center;
+}
+
+#about-sec{
+    height: 140px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    /* background-color: skyblue; */
+}
+
+#about{
+    height: 140px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    font-size: large;
+    /* background-color: gray; */
+}
+
+footer{
+    /* background-color: lightcyan; */
+    background-color: #6FFFE9;
+}
+
+footer h3{
+    text-align: center;
+}
+
+#foot-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#linkdnProf{
+    color: black;
+}
